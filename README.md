@@ -12,7 +12,7 @@ Some technology I enjoy working wiht Spring Boot, Flask, REST, Spring.
 
 👔 [linkedin][linkedin]
 
-[linkedin]: www.linkedin.com/in/vatsal-singh-01
+[linkedin]: https://linkedin.com/in/vatsal-singh-01
 <!--
 **Vatsal01/Vatsal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
